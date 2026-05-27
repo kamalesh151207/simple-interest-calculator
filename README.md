@@ -1,4 +1,5 @@
 # Simple Interest Calculator
+    Updated for PR submission
 
 This project is a simple web-based calculator used to calculate Simple Interest.
 
